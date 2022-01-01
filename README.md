@@ -6,6 +6,6 @@
 - 
 
  ## Stats 
- [![A Random Programmer's github stats](https://github-readme-stats.vercel.app/api/?username=ARandom-Programmer&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+ [![A Random Programmer's github stats](https://github-readme-stats.vercel.app/api/?username=ARandom-Programmer&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARandom-Programmer&count_private=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARandom-Programmer&layout=compact&count_private=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
